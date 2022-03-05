@@ -23,9 +23,13 @@ Download Takadimi.qml then follow the handbook instructions: https://musescore.o
 Select a range of measures, or use without selection to apply to all, then from the **Plugins** menu select **Takadimi**.  
 Set the options as required then press **Apply**.
 
-### Info
+![03](https://github.com/yonah-ag/musescore-takadimi/blob/main/images/takadimi03.png)
+
+### Additional Info
 
 Takadimi is the work of Richard Hoffman, William Pelto, and John W. White.  
 For full details see the official Takadimi homepage: http://www.takadimi.net/
+
+The repository file Takadimi.mscz is the Takadimi short guide in MuseScore format.
 
 The MuseScore project page for this plugin can be found here:

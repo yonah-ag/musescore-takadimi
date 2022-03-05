@@ -2,6 +2,7 @@
 
 A MuseScore plugin to apply Takadimi rhythm syllables to beats in a score.
 
+![00](https://github.com/yonah-ag/musescore-takadimi/blob/main/images/takadimi00.png)
 ![02](https://github.com/yonah-ag/musescore-takadimi/blob/main/images/takadimi02.png)
 
 ### License

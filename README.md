@@ -54,3 +54,4 @@ For full details see the official Takadimi homepage at http://www.takadimi.net/
 The repository file **Takadimi.mscz** is the Takadimi short guide in MuseScore format.
 
 The MuseScore project page for this plugin can be found here:
+https://musescore.org/en/project/takadimi-rhythm

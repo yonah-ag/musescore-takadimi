@@ -15,11 +15,17 @@ See https://github.com/yonah-ag/musescore-takadimi/blob/main/LICENSE
 
 ### Installation
 
-This plugin requires version 3.x of MuseScore.
-
+This plugin requires version 3.x of MuseScore.  
 Download Takadimi.qml then follow the handbook instructions: https://musescore.org/en/handbook/3/plugins
 
 ### Using the Plugin
 
 Select a range of measures, or use without selection to apply to all, then from the **Plugins** menu select **Takadimi**.  
 Set the options as required then press **Apply**.
+
+### Info
+
+Takadimi is the work of Richard Hoffman, William Pelto, and John W. White.  
+For full details see the official Takadimi homepage: http://www.takadimi.net/
+
+The MuseScore project page for this plugin can be found here:
